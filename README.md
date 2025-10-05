@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm a passionate frontend developer from VietNam<br>- 📚 I'm currently learning Chinese and Japanese<br>- ⚡ In my free time enjoy my life=)))</p>
+<p align="left">I'm a passionate frontend developer from VietNam<br>- 📚 I'm currently learning Chinese and English<br>- ⚡ In my free time enjoy my life=)))</p>
 
 ###
 
